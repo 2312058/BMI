@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import react,{useState} from "react";
 function App(){
     const[weight,setWeight]=useState("");
